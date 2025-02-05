@@ -111,6 +111,10 @@ After inlcuidng the extrenal dataset
 | **BERT Fine-tuned** | **94%** | **92%** | **93%** | **93%** |
 | **DistilBERT** | **92%** | **90%** | **91%** | **91%** |
 
+![image](https://github.com/user-attachments/assets/331e0efb-0b26-4255-b754-2fb07a165719)
+
+![image](https://github.com/user-attachments/assets/7e830c9e-a795-4f63-b628-4f4b7b85bdc5)
+
 ---
 
 ## 6. Business Recommendations
