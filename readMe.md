@@ -38,8 +38,14 @@ This dataset consists of **real and fake text samples**, curated to train deep l
 | `text`      | The input text sample. |
 | `label`     | 0 = Real Text, 1 = Fake Text. |
 
-- The dataset is **balanced**, ensuring equal representation of fake and real text.
+- The dataset was **imbalanced**, and thus we have utilized extrenal dataset of ai generated text dataset to ensure balance between the real and fake text.
+![image](https://github.com/user-attachments/assets/cdae961b-9723-4526-8787-a5655b391dae)
+
+After inlcuidng the extrenal dataset
+![image](https://github.com/user-attachments/assets/a6826827-9761-4d78-8ec8-00e920708f03)
+
 - Preprocessing steps include **tokenization, lemmatization, stopword removal, and embedding generation**.
+![image](https://github.com/user-attachments/assets/19c3ce2f-c2d4-4d4c-92ba-1cf3f31de161)
 
 ---
 
@@ -53,7 +59,6 @@ This dataset consists of **real and fake text samples**, curated to train deep l
 - **JAX models exhibit faster training times** but require a steeper learning curve compared to TensorFlow and PyTorch.
 - **Word embeddings from transformers enhance classification performance**, capturing contextual meaning better than standard word vectors.
 
-![Fake Text Detection Insights](sandbox:/mnt/data/fake_text_insights.png)
 
 ---
 
