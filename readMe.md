@@ -1,4 +1,6 @@
-# Fake Text Detection and Model Training Report
+# AI Generated Text Detection 
+![image](https://github.com/user-attachments/assets/d6c335dd-463d-4f55-9ff4-f354336bdced)
+
 
 ## 1. Introduction
 
