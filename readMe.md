@@ -47,8 +47,6 @@ After inlcuidng the extrenal dataset
 ![image](https://github.com/user-attachments/assets/a6826827-9761-4d78-8ec8-00e920708f03)
 
 - Preprocessing steps include **tokenization, lemmatization, stopword removal, and embedding generation**.
-![image](https://github.com/user-attachments/assets/19c3ce2f-c2d4-4d4c-92ba-1cf3f31de161)
-
 ---
 
 ## 3. Executive Summary
@@ -112,6 +110,8 @@ After inlcuidng the extrenal dataset
 | **DistilBERT** | **92%** | **90%** | **91%** | **91%** |
 
 ![image](https://github.com/user-attachments/assets/331e0efb-0b26-4255-b754-2fb07a165719)
+
+![image](https://github.com/user-attachments/assets/79c68d04-67ab-4414-ab81-a8fa5beb11e4)
 
 ![image](https://github.com/user-attachments/assets/7e830c9e-a795-4f63-b628-4f4b7b85bdc5)
 
